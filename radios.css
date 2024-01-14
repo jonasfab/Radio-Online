@@ -224,7 +224,7 @@ header,footer {
 
   .vid {
     position: absolute;
-    margin-bottom: 680px;
+    margin-bottom: 820px;
   }
 
   .vid h1 {
@@ -233,7 +233,7 @@ header,footer {
 
   .bot {
     border-radius: 5px;
-    margin-bottom: 560px;
+    margin-bottom: 650px;
   }
 
   .bot button {
@@ -285,13 +285,13 @@ header,footer {
 
   .container {
     display: flex;
-    margin-top: 180px;
+    margin-top: 250px;
   }
 
   .iconi-tv {
     position: absolute;
     left: 81%;
-    margin-bottom: 720px;
+    margin-bottom: 850px;
     text-align: center;
 
    
